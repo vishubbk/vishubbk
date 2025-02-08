@@ -1,4 +1,4 @@
-# Hi there, I'm Vishu Awasthi! 👋  
+# Hi there, I'm Preetahh Awasthi! 👋  
 
 🚀 *Full Stack Developer | BCA Student*  
 🔹 Skilled in **React, Node.js, Express, MongoDB, Cloudinary, EJS, HTML, CSS, JavaScript, and Python (Basic)**  
@@ -36,13 +36,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![Vishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishuAwasthi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishuAwasthi&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishuAwasthi&theme=radical)  
 
 ---
 
