@@ -1,4 +1,4 @@
-# Hi there, I'm Preetahh Awasthi! 👋  
+# Hi there, I'm Preetabh Awasthi! 👋  
 
 🚀 *Full Stack Developer | BCA Student*  
 🔹 Skilled in **React, Node.js, Express, MongoDB, Cloudinary, EJS, HTML, CSS, JavaScript, and Python (Basic)**  
